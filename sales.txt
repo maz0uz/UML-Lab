@@ -1,0 +1,4 @@
+Pizza type      Size  Quantity
+   mexican        11         3
+  mexicann        14         0
+vegetarian        13         9
